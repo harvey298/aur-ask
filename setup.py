@@ -9,7 +9,7 @@ setup(
     author_email="n/a",
     license='GNU GPL 3',
     packages=['AurAsk'],
-    install_requires=['requests',                     
+    install_requires=['QuickRequest','colour_lib',                     
                       ],
 
 )
